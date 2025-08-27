@@ -1,4 +1,5 @@
 # 🌱 강동 수업 정리
+<img width="1226" height="568" alt="image" src="https://github.com/user-attachments/assets/95dd3b6d-2e30-4f89-a6dd-297183215460" />
 
 선생님이 보여주신 크랩, ppp++, 오렌지 등의 파일을 보면서 공부할 때 도움이 되도록 정리한 자료입니다.  
 (<베이스 맞춤 완전 왕초보 기준>)
