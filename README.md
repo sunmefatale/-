@@ -21,4 +21,4 @@
 
 ## 📂 자료 링크
 - [노션 원본 보기](👉 https://www.notion.so/249de56a09c58098ad1bd1c52f53205f?v=249de56a09c580cf8508000c689c75b1&source=copy_link)
-- 코드 및 예제 파일은 `code/` 폴더에 정리되어 있습니다.
+
